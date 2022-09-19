@@ -2,7 +2,9 @@ import React from "react";
 
 function Navbar() {
     return (
-        <h1>Navbar Element</h1>
+       <nav>
+         <img src="./react-icon-small.png" alt="" />
+       </nav>
     );
 }
 export default Navbar;

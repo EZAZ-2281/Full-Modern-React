@@ -2,7 +2,7 @@ import React from "react";
 
 function Main() {
     return (
-        <h1>Main Component</h1>
+        <h1>Update main</h1>
     );
 }
 export default Main;
