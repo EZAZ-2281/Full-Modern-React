@@ -1,0 +1,2 @@
+Useeffect hook is used to fire a function after every render. 
+Dependidency array that is basically a array that we can pass into useeffect hook as the seconf argument to control when this function is run. 
